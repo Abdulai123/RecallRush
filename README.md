@@ -25,7 +25,7 @@ RecallRush is a web-based memory testing application that challenges and improve
 
 
 ## Contributing
-``` We welcome contributions to enhance RecallRush. To contribute, please follow these steps
+#### We welcome contributions to enhance RecallRush. To contribute, please follow these steps
 
  1. Fork the repository and clone it to your local machine.
 
@@ -46,4 +46,4 @@ RecallRush is a web-based memory testing application that challenges and improve
 6. Open a pull request on the main repository, explaining your changes and their purpose.
 
 
- We appreciate your contributions and will review them as soon as possible. Thank you for helping make RecallRush even better!
+ ##### We appreciate your contributions and will review them as soon as possible. Thank you for helping make RecallRush even better!
